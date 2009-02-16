@@ -3,7 +3,7 @@ Summary:	The Computer History Simulation Project
 Summary(pl.UTF-8):	Symulator historycznych komputerów
 Name:		simh
 Version:	3.8.1
-Release:	0.1
+Release:	1
 License:	Almost public domain (see sources for details)
 Group:		Applications/Emulators
 Source0:	http://simh.trailing-edge.com/sources/%{name}v38-1.zip
