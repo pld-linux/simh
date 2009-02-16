@@ -2,54 +2,54 @@
 Summary:	The Computer History Simulation Project
 Summary(pl.UTF-8):	Symulator historycznych komputerów
 Name:		simh
-Version:	3.8.0
+Version:	3.8.1
 Release:	0.1
 License:	Almost public domain (see sources for details)
 Group:		Applications/Emulators
-Source0:	http://simh.trailing-edge.com/sources/%{name}v38-0.zip
-# Source0-md5:	d4bf6b7708e1f429e1e9b3c9e3e93b24
+Source0:	http://simh.trailing-edge.com/sources/%{name}v38-1.zip
+# Source0-md5:	e15f65a82e21ea49e14b438326d93d5c
 Source1:	http://simh.trailing-edge.com/pdf/%{name}_doc.pdf
-# Source1-md5:	fd44ad1e139df2ec1b6353d06b5a1675
+# Source1-md5:	65d8b407e903f240ac47e0310e599a9b
 Source2:	http://simh.trailing-edge.com/pdf/%{name}_swre.pdf
 # Source2-md5:	db147325aa69f8b9e709971774edc91b
 Source3:	http://simh.trailing-edge.com/pdf/%{name}_faq.pdf
 # Source3-md5:	cbb442ddc136f9b26d6917033fd03b18
 Source4:	http://simh.trailing-edge.com/pdf/altairz80_doc.pdf
-# Source4-md5:	b5035c686347e408bdff8f8d684b0850
+# Source4-md5:	224f1c3ec61c7fc989597a9e10241cb8
 Source5:	http://simh.trailing-edge.com/pdf/nova_doc.pdf
-# Source5-md5:	cbe0ae8b222e94dca8daa7b2e84a7dd8
+# Source5-md5:	f4b79a472fb2628f9b4907c1ed0e7d17
 Source6:	http://simh.trailing-edge.com/pdf/pdp1_doc.pdf
-# Source6-md5:	67034ec3501b07d8611418196e106fef
+# Source6-md5:	01c59c15d5686559083e814568f21cd5
 Source7:	http://simh.trailing-edge.com/pdf/pdp18b_doc.pdf
-# Source7-md5:	12519180b9e5d76739f1d63bfebc38c5
+# Source7-md5:	ef9dba09c796d88df5b99112d01d7805
 Source8:	http://simh.trailing-edge.com/pdf/pdp8_doc.pdf
-# Source8-md5:	8f96e596471284f47850ade9ccd2d855
+# Source8-md5:	04ab4961c3420e9d4dd4ca58f3593a1f
 Source9:	http://simh.trailing-edge.com/pdf/pdp10_doc.pdf
-# Source9-md5:	dd839a5858fef2300551883d6a763ad2
+# Source9-md5:	fef263eb13c215e5fa0826d56bc5aa2b
 Source10:	http://simh.trailing-edge.com/pdf/pdp11_doc.pdf
-# Source10-md5:	dfd99dceba4a7668d91d9882be979887
+# Source10-md5:	e3cb433af64e5d8cb398333410736a49
 Source11:	http://simh.trailing-edge.com/pdf/vax780_doc.pdf
-# Source11-md5:	ea39489540bff784bee5a521ce65e62f
+# Source11-md5:	b137fdc66a92587ba9b8e13a7ecf0297
 Source12:	http://simh.trailing-edge.com/pdf/vax_doc.pdf
-# Source12-md5:	3bf82df1b5e2106dc89f0e23059f636b
+# Source12-md5:	39548e29c41cea1469c4d82c9209ab16
 Source13:	http://simh.trailing-edge.com/pdf/gri_doc.pdf
-# Source13-md5:	bbfab27a30fb030a0c72eb7f2760f14a
+# Source13-md5:	fc46ce0864e8a655e85c1d007a2786fe
 Source14:	http://simh.trailing-edge.com/pdf/i1401_doc.pdf
-# Source14-md5:	46351e380dddbeb2db21fb638f4aaed9
+# Source14-md5:	89f1d7888096c5e28bb97b876f66942d
 Source15:	http://simh.trailing-edge.com/pdf/i1620_doc.pdf
-# Source15-md5:	6e5ac4d10cc09d607983956cee78f091
+# Source15-md5:	75f7ad65dc2c4ce1dff0e31674425603
 Source16:	http://simh.trailing-edge.com/pdf/i7094_doc.pdf
-# Source16-md5:	5a0e021a41063cbf1712152d8e213f10
+# Source16-md5:	4524712d7d3c013a9a4db0f3db1bdcce
 Source17:	http://simh.trailing-edge.com/pdf/id_doc.pdf
-# Source17-md5:	293e32394943618cd7948a686307e500
+# Source17-md5:	4a7960b00544bc49c0fa7d62b4b6ba9b
 Source18:	http://simh.trailing-edge.com/pdf/hp2100_doc.pdf
-# Source18-md5:	9fe6000dae6a969f0ecc505496f2f0d5
+# Source18-md5:	3cdb2da2e8d36168032cb0a93b8ff837
 Source19:	http://simh.trailing-edge.com/pdf/h316_doc.pdf
-# Source19-md5:	dcd56e948aa99c76706b352d455d5390
+# Source19-md5:	2a61c714d68503b4df3b31998830088d
 Source20:	http://simh.trailing-edge.com/pdf/lgp_doc.pdf
-# Source20-md5:	fdce1ed5dac91794dc106a60ea4d086d
+# Source20-md5:	f7d20390533e6817097779ffb9914d60
 Source21:	http://simh.trailing-edge.com/pdf/sds_doc.pdf
-# Source21-md5:	91fc557b1b89c489018731b1d3c32207
+# Source21-md5:	61a2769bd39625774abb2991bc90d08c
 
 URL:		http://simh.trailing-edge.com/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
