@@ -52,6 +52,7 @@ Source21:	http://simh.trailing-edge.com/pdf/sds_doc.pdf
 # Source21-md5:	61a2769bd39625774abb2991bc90d08c
 
 URL:		http://simh.trailing-edge.com/
+BuildRequires:	unzip
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
